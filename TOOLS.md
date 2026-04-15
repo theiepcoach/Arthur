@@ -1,5 +1,10 @@
 # TOOLS.md - Local Notes
 
+## File Save Location
+- **Arthur's files** go to: `theiepcoach/Arthur` (GitHub)
+- **Legacy docs** (if any): `theiepcoach/arthur-assistant-docs/docs`
+- This applies to documents, letters, memory, etc.
+
 Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
 
 ## What Goes Here
